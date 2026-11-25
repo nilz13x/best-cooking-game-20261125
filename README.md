@@ -1,8 +1,8 @@
 # Dapur Kilat — warung cepat saji
 
-[![Dapur Kilat](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
-[![Rank](https://make.fun/badge/best-cooking-game-20261125-0137/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
-[![Reward](https://make.fun/badge/best-cooking-game-20261125-0137/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/nilz13x/best-cooking-game-20261125/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/nilz13x/best-cooking-game-20261125/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 **Dapur Kilat** (Lightning Kitchen) is an original single-screen time-management cooking game: a three-minute shift in a small Indonesian warung. Order tickets land on the board with a countdown, you grab ingredients off the counter, chop them on the board or fry them in the wok, assemble the dish on the plate, and serve it before the ticket burns out. Serve in a streak to build a combo; let a ticket expire and you lose one of three patience hearts.
 
